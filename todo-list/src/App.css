@@ -1,0 +1,19 @@
+
+html{
+  background-color: rgb(2, 86, 119);
+}
+form{
+  background-color: aliceblue;
+  width: 400px;
+  height: 300px;
+}
+#root{
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  position: relative;
+  left: 35%;
+  top: 10%;
+}
+
+

@@ -1,0 +1,43 @@
+body{
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+.App{
+    background-color: rgb(4, 73, 30);
+    width: 400px;
+    height: 600px;
+    
+    position: relative;
+    left: 30%;
+}
+
+form{
+    position: relative;
+    top: 10%;
+}
+
+input[type = text]{
+    width: 80%;
+    height: 40px;
+    border-top: none;
+    border-bottom:inherit grey;
+    border-left: none;
+    border-right: none;
+    background-color:  rgb(4, 73, 30);
+}
+input[type = text]:checked{
+    width: 80%;
+    height: 40px;
+    border-top: none;
+    border-bottom:inherit grey;
+    border-left: none;
+    border-right: none;
+    background-color:  rgb(4, 73, 30);
+}
+button{
+    background-color: #000;
+    position: absolute;
+    left: 35px;
+    color: darkkhaki;
+}
